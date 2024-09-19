@@ -1,0 +1,12 @@
+.array-container {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+.array-bar {
+    width: 10px; /* Increase bar width */
+    display: inline-block;
+    margin: 0 2px; /* Add more space between bars */
+    background-color: green;
+}
